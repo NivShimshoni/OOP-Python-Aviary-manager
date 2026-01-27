@@ -6,11 +6,11 @@ This project is a sophisticated management system for an avian habitat, develope
 The core of the project focuses on **Object-Oriented Programming (OOP)**, ensuring robust data handling, spatial awareness, and automated biological calculations.
 
 ## 🛠 Engineering & Programming Concepts
-* **[span_2](start_span)Advanced Class Hierarchy:** Implemented a multi-level inheritance structure (Bird → Finch/Parrot → Specific Species) to manage shared attributes and specialized behaviors[span_2](end_span).
-* **[span_3](start_span)Operator Overloading:** Customized Python comparison operators (`==`, `>`, `<`) to enable logical sorting of birds based on species and color complexity[span_3](end_span).
-* **[span_4](start_span)[span_5](start_span)Spatial Logic & Grid Mapping:** Developed a 2D grid representation of a habitat wall with zero-overlap constraints and resolution-based positioning (10cm units)[span_4](end_span)[span_5](end_span).
-* **[span_6](start_span)[span_7](start_span)Input Integrity & Validation:** Robust error handling using `ValueError` and `TypeError` for IDs, birth dates, and volume requirements[span_6](end_span)[span_7](end_span).
-* **[span_8](start_span)[span_9](start_span)[span_10](start_span)Automated Calculations:** Dynamic age calculation (Years/Months/Days) and random trait generation for singing/tweeting strengths[span_8](end_span)[span_9](end_span)[span_10](end_span).
+* **Advanced Class Hierarchy:** Implemented a multi-level inheritance structure (Bird → Finch/Parrot → Specific Species) to manage shared attributes and specialized behaviors.
+* **Operator Overloading:** Customized Python comparison operators (`==`, `>`, `<`) to enable logical sorting of birds based on species and color complexity.
+* **Spatial Logic & Grid Mapping:** Developed a 2D grid representation of a habitat wall with zero-overlap constraints and resolution-based positioning (10cm units).
+* **Input Integrity & Validation:** Robust error handling using `ValueError` and `TypeError` for IDs, birth dates, and volume requirements.
+* **Automated Calculations:** Dynamic age calculation (Years/Months/Days) and random trait generation for singing/tweeting strengths.
 
 ## 🏗 System Architecture
 
