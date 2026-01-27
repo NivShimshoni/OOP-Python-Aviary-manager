@@ -1,7 +1,7 @@
 # 🦜 Aviary Habitat Management System
 
 ## 🚀 Project Overview
-[span_0][span_1]This project is a sophisticated management system for an avian habitat, developed as part of my **Electrical Engineering** studies at **Ben-Gurion University of the Negev**[span_0][span_1] It simulates a complex environment consisting of a Bird-Room, various cage types, and multiple bird species with unique biological and behavioral traits.
+This project is a sophisticated management system for an avian habitat, developed as part of my **Electrical Engineering** studies at **Ben-Gurion University of the Negev**[span_0][span_1] It simulates a complex environment consisting of a Bird-Room, various cage types, and multiple bird species with unique biological and behavioral traits.
 
 The core of the project focuses on **Object-Oriented Programming (OOP)**, ensuring robust data handling, spatial awareness, and automated biological calculations.
 
