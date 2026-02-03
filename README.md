@@ -29,3 +29,8 @@ The system manages two main families:
 
 ---
 *Note: This project was developed as an academic assignment at Ben-Gurion University.*
+
+## 🎓 Academic Integrity
+This repository is published with the explicit permission of the course instructor, **Haya Idan**, from the Department of Electrical & Computer Engineering at Ben-Gurion University of the Negev. 
+
+The project is shared for portfolio purposes to demonstrate my software engineering development and the application of OOP principles.
